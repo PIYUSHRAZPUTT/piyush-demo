@@ -1,3 +1,3 @@
 # piyush-demo
-This is my first  git reporitory
+This is my first  git reporitory.
 author- Piyush Razputt
